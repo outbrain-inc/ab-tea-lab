@@ -1,4 +1,4 @@
-# Estimating Heterogeneous Treatment Effects in Online Advertising Experiments: A Hierarchical Bayesian Approach
+# ABTeaLab: Bayesian A/B Testing for Estimating Heterogeneous Treatment Effects in Online Advertising
 
 Code accompanying the paper **"Estimating Heterogeneous Treatment Effects in Online Advertising Experiments: A Hierarchical Bayesian Approach"** by Aljoša Vodopija, Anže Alič, Tim Poštuvan, Martin Jakomin, and Blaž Škrlj (Teads), submitted to the AdKDD 2026 workshop at the ACM SIGKDD Conference on Knowledge Discovery and Data Mining.
 
