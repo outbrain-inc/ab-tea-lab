@@ -1,0 +1,7 @@
+graft src
+graft assets
+
+include pyproject.toml
+include README.md
+
+global-exclude *~ *.py[cod] *.so *.pyc __pycache__
